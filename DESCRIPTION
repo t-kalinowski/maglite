@@ -1,0 +1,10 @@
+Package: maglite
+Type: Package
+Title: magrittr-lite (just the pipes; sans aliases)
+Version: 0.1.0
+Authors@R: person("Tomasz", "Kalinowski", email = "tkalinow@asu.edu", role = c("aut", "cre"))
+Description: Makes available just the pipes from the magrittr package. This is useful if you want to avoid any name conflicts that the magrittr aliases introduce.
+License: GPL-3
+LazyData: TRUE
+RoxygenNote: 5.0.1
+Imports: magrittr
