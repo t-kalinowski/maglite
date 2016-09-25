@@ -9,3 +9,8 @@ Makes available just the pipe operators from [magrittr](https://cran.r-project.o
 - `%<>%` compound assignment pipe 
 - `%$%` exposition pipe
 - `%T>%` tee pipe
+
+To install, run:
+```
+devtools::install_github("t-kalinowski/maglite")
+```
