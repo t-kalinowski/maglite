@@ -12,8 +12,7 @@
 #'      \item tee pipe \code{\link[magrittr]{\%T>\%}}
 #'   }
 #'
-#' @seealso
-#' \link[magrittr]{magrittr}
+#' @seealso \link[magrittr]{magrittr}
 #' \href{https://cran.r-project.org/web/packages/magrittr/vignettes/magrittr.html}{magrittr-vignette}
 #' @name maglite
 #' @docType package
